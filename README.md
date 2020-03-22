@@ -5,6 +5,7 @@
 * [Steven J. Miller](https://web.williams.edu/Mathematics/sjmiller/public_html/math/handouts/index.htm)
 * [David Perkinson](http://people.reed.edu/~davidp/)
 * [Tom Leinster](https://www.maths.ed.ac.uk/~tl/)
+* [Keith Conrad](https://kconrad.math.uconn.edu/)
 
 ## 常微分方程
 * [The History of Differential Equations, 1670 - 1950](https://publications.mfo.de/handle/mfo/2870)
