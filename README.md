@@ -6,7 +6,7 @@
 * [David Perkinson](http://people.reed.edu/~davidp/)
 * [Tom Leinster](https://www.maths.ed.ac.uk/~tl/)
 * [Keith Conrad](https://kconrad.math.uconn.edu/)
-* [Calculus III at the University of Kentucky](http://www.ms.uky.edu/~ma213/213-f19/)
+* [Calculus III at the University of Kentucky](http://www.ms.uky.edu/~perry/213-f19-perry)
 
 ## 常微分方程
 * [The History of Differential Equations, 1670 - 1950](https://publications.mfo.de/handle/mfo/2870)
