@@ -10,3 +10,6 @@
 
 ## 常微分方程
 * [The History of Differential Equations, 1670 - 1950](https://publications.mfo.de/handle/mfo/2870)
+
+## 开放书籍
+* [opentextbooks](https://open.umn.edu/opentextbooks/)
